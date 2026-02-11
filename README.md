@@ -74,6 +74,3 @@ The proposed ETL architecture includes:
 This project demonstrates how data engineering and analytics can support global development objectives by transforming raw public health data into actionable insights aligned with the SDG framework.
 
 ---
-
-## 📂 Repository Structure
-
