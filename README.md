@@ -41,20 +41,19 @@ The proposed ETL architecture includes:
 
 1. **Data Ingestion Layer** – CSV dataset
 2. **Transformation Layer** – Data cleaning and validation (Python)
-3. **Storage Layer** – Relational Database (PostgreSQL/MySQL)
-4. **Data Model** – Structured schema for efficient querying
+3. **Storage Layer** – Relational Database (MySQL)
+4. **Data Model** – Structured schema
 5. **Analytics Layer** – SQL-based extraction
-6. **Visualization Layer** – Charts and dashboards generated from DB queries
+6. **Visualization Layer** – Charts and dashboards generated from DB queries (PowerBI)
 
 ---
 
 ## 🛠️ Technology Stack
 
 - Python
-- Jupyter Notebook
-- PostgreSQL / MySQL
+- MySQL
 - SQL
-- Matplotlib / Seaborn / Power BI (if applicable)
+- Matplotlib / Seaborn / Power BI
 - Git & GitHub
 
 ---
